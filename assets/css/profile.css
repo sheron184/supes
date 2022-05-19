@@ -1,0 +1,32 @@
+body{
+   background: ghostwhite;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none !important;
+}
+.tabs{
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px 0px, rgba(0, 0, 0, 0.23) 0px 3px 6px 0px;
+   padding: 5px 20px;
+   width: fit-content;
+   border-radius: 40px;
+}
+.tab-link{
+   font-size: 25px !important;
+    color: darkgrey !important;
+}
+.tab-link:hover{
+   color: blueviolet !important;
+}
+i{
+   color: darkgrey;
+}
+.kata{
+   box-shadow: rgba(67, 71, 85, 0.2) 0px 0px 5.6px 0px, rgba(90, 125, 188, 0.05) 0px 5.6px 8px 0px;
+}
+.name{
+   text-transform: capitalize;
+}
+.name h6{
+      font-size: 18px !important;
+}
